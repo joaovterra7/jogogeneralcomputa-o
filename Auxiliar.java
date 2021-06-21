@@ -1,6 +1,13 @@
 import java.io.IOException;
 import java.util.Random;
 
+/**
+ * Escreva a descrição da classe aa aqui.
+ * 
+ * @author João Victor Oliveira Terra 
+ * @version 2021-06-14
+ */
+
 public class Auxiliar {
 
     public void sortearDados (int[] dados){

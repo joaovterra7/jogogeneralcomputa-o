@@ -2,6 +2,13 @@ import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+ * Escreva a descrição da classe aa aqui.
+ * 
+ * @author João Victor Oliveira Terra 
+ * @version 2021-06-14
+ */
+
 public class Main {
 
     public static void main(String[] args) {
