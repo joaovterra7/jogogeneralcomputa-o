@@ -3,10 +3,11 @@ import java.util.Random;                  // imports
 import java.util.Scanner;
 
 /**
-  DESCRIÇÃO:
+  DESCRIÇÃO DA ATIVIDADE AVALIATIVA 4:
  * O programa criado a seguir trata-se da reprodução do jogo general utilizando a linguagem Java. 
- * @author João Victor Oliveira Terra 
+ * @author João Victor Oliveira Terra (joao.terra@edu.pucrs.br)
  * @version 2021-06-14
+ * @matricula 21100815-6
  */
 
 public class Main    //Abertura da classe main

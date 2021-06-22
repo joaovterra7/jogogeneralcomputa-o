@@ -5,9 +5,9 @@ import org.junit.jupiter.api.Test;
 
 /**
  * A classe de teste AuxiliarTest.
- *
- * @author  João Victor Oliveira Terra
+ * @author  João Victor Oliveira Terra (joao.terra@edu.pucrs.br)
  * @version 2021-06-14
+ * @matricula 21100815-6
  */
 public class AuxiliarTest
 {
