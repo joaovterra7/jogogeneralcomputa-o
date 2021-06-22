@@ -1,5 +1,3 @@
-
-
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -8,8 +6,8 @@ import org.junit.jupiter.api.Test;
 /**
  * A classe de teste AuxiliarTest.
  *
- * @author  (seu nome)
- * @version (um número de versão ou data)
+ * @author  João Victor Oliveira Terra
+ * @version 2021-06-14
  */
 public class AuxiliarTest
 {
@@ -39,4 +37,11 @@ public class AuxiliarTest
     public void tearDown()
     {
     }
+
+    @Test
+    public void Teste1()
+    {
+        Auxiliar auxiliar1 = new Auxiliar();
+    }
 }
+
